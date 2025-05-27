@@ -245,9 +245,6 @@ To check version of your Windows: **Right-click** on your Start menu and select 
   <a href="https://t.me/mkr_infinity" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=mkr_infinity&color=2CA5E0&logoColor=&labelColor=&style=plastic" height="43" alt="telegram logo"  />
   </a>
-  <a href="https://www.facebook.com/mkrinfinity1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=Kaif(Official)&color=1877F2&logoColor=cyan&labelColor=&style=plastic" height="43" alt="facebook logo"  />
-  </a>
 </div>
 
 
