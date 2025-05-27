@@ -128,7 +128,7 @@ slmgr /ipk yourlicensekey
 > Please select one of the **license keys** from the list that **matches your version of Windows** and replace it with  `yourlicencekey` in the command.
 
 > [!TIP]
-> [How to check version of Windows](### Check Windows Version )
+> [How to check version of Windows](https://github.com/mkr-infinity/Windows-Pro-For-Free-Using-Server/tree/main?tab=readme-ov-file#check-windows-version)
 
 <p align="left">
   <br><img src="https://github.com/user-attachments/assets/1b6401e6-7e63-4351-8a92-fa355dfc30cf" width="480px">
