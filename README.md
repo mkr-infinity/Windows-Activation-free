@@ -182,6 +182,8 @@ slmgr /ato
 ---
 <br>
 
+
+
 ### Step 5  
 And Now check the activation status again [^6].
 
@@ -191,3 +193,14 @@ And Now check the activation status again [^6].
 
 #### Done ✅  
 your Windows is activated successfully.
+
+
+<br>
+
+### Check Windows Version 
+
+To check version of your Windows: **Right-click** on your Start menu and select the **system** option. Your Windows version can be seen in the second section under 
+
+
+
+**Edition.**,
