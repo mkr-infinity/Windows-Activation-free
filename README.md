@@ -70,6 +70,7 @@ Your Windows has been activated Successfully.
 now you can hit the enter key to exit the CMD and close PowerShell
 
 <br>
+
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
 ## Method 2 (Easy Just Copy Paste)
