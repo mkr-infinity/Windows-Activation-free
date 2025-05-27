@@ -3,7 +3,12 @@ Windows 10/11 All Keys Activation For Free Using KMS Machine Or Automatic.
 
 >[!NOTE]
 >🗝️Please Read Before Proceeding 😇👇,
-These Methods Activate Your Windows To An Organisation KMS Server🗝️, You Are Ponting Your PC To A Public Server.
+These Methods Activate Your Windows To An Organisation KMS Server🗝️.
+> <br>
+>
+>You Are Ponting Your PC To A Public Server.
+>
+><br> 
 >🗝️It Just Simulate Microsoft's Response 🙂.
 
 
