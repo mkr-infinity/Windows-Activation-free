@@ -1,14 +1,14 @@
 # Windows-Pro-For-Free-Using-Server
 Windows 10/11 All Keys Activation For Free Using KMS Machine Or Automatic.
 
+[NOTE!]
+Please Read Before Proceeding 😇👇,
+These Methods Activate Your Windows To An Organisation KMS Server🗝️, You Are Ponting Your PC To A Public Server.
 
 
-# Instant Windows 10 & 11 Activation: 40-Second Solution. 
 
-[![Readme](https://img.shields.io/badge/README_IN-فارسی-blue?logo=readme)](README-FA.md)  
-[![Readme](https://img.shields.io/badge/README_IN-ENGLISH-blue?logo=readme)](README.md)
 
-> This repository contains a way that can activate Windows 10 and 11 in under 40 seconds. Both methodes is compatible with home, home N, Home single lang, Home country specific, professional, education and enterprise versions of Windows.
+
 
 ## Method 1 (recommend)  
 ### Instant Windows activation using (PowerShell)  
