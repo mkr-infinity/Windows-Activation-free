@@ -1,9 +1,10 @@
 # Windows-Pro-For-Free-Using-Server
 Windows 10/11 All Keys Activation For Free Using KMS Machine Or Automatic.
 
-[NOTE!]
-Please Read Before Proceeding 😇👇,
+>[!NOTE]
+>🗝️Please Read Before Proceeding 😇👇,
 These Methods Activate Your Windows To An Organisation KMS Server🗝️, You Are Ponting Your PC To A Public Server.
+>🗝️It Just Simulate Microsoft's Response 🙂.
 
 
 
