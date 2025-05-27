@@ -46,14 +46,16 @@ Now, please `copy` this line:
 ```
 irm https://get.activated.win | iex
 ```
-This Code Will Download the Automatic Installation Script for You and Launch a Pop-up
+Paste In Powershell and Click Enter Button ✅ 
+
+This ☝️☝️ Code Will Download the Automatic Installation Script for You and Launch a Pop-up
 
 
 ---
 <br>
 
 ### Step 4  
-Now paste it (with right-click) and hit the enter key. In the newly opened window, there are several options available, from which we must select option `1` and wait a few seconds to complete.  
+In the newly opened window, there are several options available, from which we must select option `1`(To Active The Windows Key 🗝️ Permanent) and wait a few seconds to complete.  
 
 <p align="left">
   <br><img src="https://github.com/user-attachments/assets/0c3689a1-1595-40b3-97e2-041dac423237" width="540px">
@@ -61,11 +63,11 @@ Now paste it (with right-click) and hit the enter key. In the newly opened windo
 
 <br>
 
-#### Congratulations,
-your Windows has been activated.  
-now you can hit the enter key to exit the CMD and close PowerShell and check windows Activation menu [^3]
+#### Congratulations👏🎉,
+Your Windows has been activated Successfully.  
+now you can hit the enter key to exit the CMD and close PowerShell
 
-<br><br><br><br><br><br><br><br>
+<br>
 
 ## Method 2  
 ### Instant Windows activation using CMD (Command Prompt)
