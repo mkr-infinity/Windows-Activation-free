@@ -13,7 +13,7 @@ These Methods Activate Your Windows To An Organisation KMS Server🗝️.
 
 
 ## Method 1 (Automatic And Easy)
-### Instant Windows activation using (PowerShell)  
+### Windows activation using (PowerShell)  
 
 
 > [!TIP]
@@ -69,21 +69,18 @@ now you can hit the enter key to exit the CMD and close PowerShell
 
 <br>
 
-## Method 2  
-### Instant Windows activation using CMD (Command Prompt)
+## Method 2 (Easy Just Copy Paste)
+### Windows activation using CMD (Command Prompt)
 
 <br>
 
 > [!NOTE]
-> Remember **connect** to the **Internet**
->
-> VPN is **not necessary**
+> Remember **Internet** connection is required.
 
 <br>
 
 ### Step 1  
 First, hit the start or search icon and type the "CMD" in the search box. and after seeing the command prompt option, run it as an **administrator**  
-> another easy ways: [^2].
 
 <p align="left">
   <br><img src="https://github.com/user-attachments/assets/88ac970a-f24b-4acc-82c0-f8e7c0b05249" width="480px">
@@ -94,12 +91,17 @@ First, hit the start or search icon and type the "CMD" in the search box. and af
 
 ### The following is the list of LICENSE KEYS  
 
+
+![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
+ 
+ <br>
+
 |            **Key**            |  **Version**   |
 | :---------------------------: | :------------: |
 | TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 |      Home      |
 | 3KHY7-WNT83-DGQKR-F7HPR-844BM |     Home N     |
-| 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH |  Home sl [^4]  |
-| PVMJN-6DFY6–9CCP6–7BKTT-D3WVR |  Home cs [^5]  |
+| 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH |  Home sl       |
+| PVMJN-6DFY6–9CCP6–7BKTT-D3WVR |  Home cs       |
 | W269N-WFGWX-YVC9B-4J6C9-T83GX |  Professional  |
 | MH37W-N47XK-V7XM9-C7227-GCQG9 | Professional N |
 | NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 |   Education    |
