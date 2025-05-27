@@ -5,23 +5,19 @@ Windows 10/11 All Keys Activation For Free Using KMS Machine Or Automatic.
 >🗝️Please Read Before Proceeding 😇👇,
 These Methods Activate Your Windows To An Organisation KMS Server🗝️.
 > <br>
->
 >You Are Ponting Your PC To A Public Server.
->
 ><br> 
 >🗝️It Just Simulate Microsoft's Response 🙂.
 
 
 
 
-
-
-## Method 1 (recommend)  
+## Method 1 (Automatic And Easy)
 ### Instant Windows activation using (PowerShell)  
-> [!TIP]
-> We have many ways to run powershell in windowss 10 & 11. [^1]
 
-One of the fastest ways to open PowerShell in Windows is a Start menu search. You may follow the steps below:
+
+> [!TIP]
+One of the fastest ways to open PowerShell in Windows is a Start menu search. or alternatively You may run win+R then type powershell hit enter.
 
 <br>
 
