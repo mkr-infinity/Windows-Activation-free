@@ -128,7 +128,7 @@ slmgr /ipk yourlicensekey
 > Please select one of the **license keys** from the list that **matches your version of Windows** and replace it with  `yourlicencekey` in the command.
 
 > [!TIP]
-> How to check version of Windows [^3].
+> [How to check version of Windows](### Check Windows Version )
 
 <p align="left">
   <br><img src="https://github.com/user-attachments/assets/1b6401e6-7e63-4351-8a92-fa355dfc30cf" width="480px">
@@ -198,9 +198,4 @@ your Windows is activated successfully.
 <br>
 
 ### Check Windows Version 
-
-To check version of your Windows: **Right-click** on your Start menu and select the **system** option. Your Windows version can be seen in the second section under 
-
-
-
-**Edition.**,
+To check version of your Windows: **Right-click** on your Start menu and select the **system** option. Your Windows version can be seen in the second section under **Edition.**.
