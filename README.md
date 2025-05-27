@@ -17,15 +17,13 @@ These Methods Activate Your Windows To An Organisation KMS Server🗝️.
 
 
 > [!TIP]
-One of the fastest ways to open PowerShell in Windows is a Start menu search. or alternatively You may run win+R then type powershell hit enter.
+One of the fastest ways to open PowerShell in Windows is a Start menu search. or alternatively You may click windows+R button then type powershell hit enter.
 
 <br>
 
 ### Step 1  
 All you need to do is hit the start or search icon and type the "PowerShell" in the search box.  
-> Another easy way: [^2]
 
-<p align="left">
   <br><img src="https://github.com/user-attachments/assets/5a10538a-c8c2-4934-868b-fd8e910f1f9e" width="540px">
 </p>  
 
