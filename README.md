@@ -90,11 +90,10 @@ First, hit the start or search icon and type the "CMD" in the search box. and af
 <br>
 
 ### The following is the list of LICENSE KEYS  
-
+<br>
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
- 
- <br>
+
 
 |            **Key**            |  **Version**   |
 | :---------------------------: | :------------: |
@@ -111,6 +110,9 @@ First, hit the start or search icon and type the "CMD" in the search box. and af
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
+Home Sl = Single Language 
+Home cs = Country Specific
+
 <br>
 
 ### Step 2  
@@ -123,7 +125,7 @@ slmgr /ipk yourlicensekey
 ```
 
 > [!NOTE]
-> Please select one of the **license keys** from the list that **matches your version of Windows** and replace it with the phrase `yourlicencekey` in the command.
+> Please select one of the **license keys** from the list that **matches your version of Windows** and replace it with  `yourlicencekey` in the command.
 
 > [!TIP]
 > How to check version of Windows [^3].
