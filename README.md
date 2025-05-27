@@ -196,10 +196,60 @@ And Now check the activation status again.
 </p>
 
 #### Done ✅  
-your Windows is activated successfully.
+Your Windows is activated successfully.
 
 
 <br>
 
 ### Check Windows Version 
 To check version of your Windows: **Right-click** on your Start menu and select the **system** option. Your Windows version can be seen in the second section under **Edition.**.
+
+
+
+
+## 🌐 Socials:
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.youtube.com/@mkr_edittz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=mkr_edittz&color=F00&logoColor=F00&labelColor=299745&style=plastic" height="20" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/mkr_edittz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=mkr_edittz&color=E4405F&logoColor=fa05e4&labelColor=653c62&style=plastic" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/mkr_edittz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=mkr_edittz&color=1877F2&logoColor=1fd1d6&labelColor=2c8822&style=plastic" height="20" alt="facebook logo"  />
+  </a>
+ <br clear="both">
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.instagram.com/labze_kaifiyat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=labze_kaifiyat&color=E4405F&logoColor=fa05e4&labelColor=653c62&style=plastic" height="20" alt="instagram logo"  />
+  </a>
+</div>
+
+
+###
+
+
+
+<h3 align="left">🌐Connect with me:</h3>
+
+
+<br clear="both">
+  <a href="https://www.instagram.com/mkr_infinity" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=mkr_infinity&color=E4405F&logoColor=cyan&labelColor=&style=plastic" height="43" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/mkr_infinity" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=mkr_infinity&color=2CA5E0&logoColor=&labelColor=&style=plastic" height="43" alt="telegram logo"  />
+  </a>
+  <a href="https://www.facebook.com/mkrinfinity1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=Kaif(Official)&color=1877F2&logoColor=cyan&labelColor=&style=plastic" height="43" alt="facebook logo"  />
+  </a>
+</div>
+
+
+
+[![](https://visitcount.itsvg.in/api?id=mkr-infinity&icon=10&color=13)](https://visitcount.itsvg.in)
