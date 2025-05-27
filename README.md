@@ -9,7 +9,9 @@ These Methods Activate Your Windows To An Organisation KMS Server🗝️.
 ><br> 
 >🗝️It Just Simulate Microsoft's Response 🙂.
 
+<br>
 
+![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
 
 ## Method 1 (Automatic And Easy)
@@ -68,6 +70,7 @@ Your Windows has been activated Successfully.
 now you can hit the enter key to exit the CMD and close PowerShell
 
 <br>
+![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
 ## Method 2 (Easy Just Copy Paste)
 ### Windows activation using CMD (Command Prompt)
@@ -110,7 +113,7 @@ First, hit the start or search icon and type the "CMD" in the search box. and af
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
-Home Sl = Single Language <br>
+Home sl = Single Language <br>
 Home cs = Country Specific
 
 <br>
@@ -185,7 +188,7 @@ slmgr /ato
 
 
 ### Step 5  
-And Now check the activation status again [^6].
+And Now check the activation status again.
 
 <p align="left">
   <br><img src="https://github.com/user-attachments/assets/9ca70137-8e2e-4504-a52d-22f41d959bd7" width="480px">
