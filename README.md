@@ -41,11 +41,13 @@ Next, you must click on the `Run as Administrator` to start PowerShell, in this 
 <br>
 
 ### Step 3  
-Now, after a brief pause to allow for execution, please `copy` this line:
+Now, please `copy` this line:
 
-```CSS
+```
 irm https://get.activated.win | iex
 ```
+This Code Will Download the Automatic Installation Script for You and Launch a Pop-up
+
 
 ---
 <br>
