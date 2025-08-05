@@ -196,16 +196,13 @@ And Now check the activation status again.
 </p>
 
 #### Done ✅  
-Your Windows is activated successfully.
+Your Windows is now activated successfully.
 
 
 <br>
 
 ### Check Windows Version 
 To check version of your Windows: **Right-click** on your Start menu and select the **system** option. Your Windows version can be seen in the second section under **Edition.**.
-
-
-
 
 
 
