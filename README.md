@@ -270,7 +270,7 @@ Send Anything(Token/NFT) on Etherium Chain.
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 ### 💖 Support Via Telegram
 
-<img width="250" height="75" alt="Image" src="https://github.com/user-attachments/assets/fe380ea4-6526-423e-8a66-2385918dcea5" />
+<img width="230" height="65" alt="Image" src="https://github.com/user-attachments/assets/fe380ea4-6526-423e-8a66-2385918dcea5" />
 
 - ⭐ You can send ***NFT*** OR ***Stars*** directly to me on [Telegram](https://t.me/mkr_infinity)
   
