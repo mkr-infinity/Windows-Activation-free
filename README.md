@@ -211,87 +211,36 @@ To check version of your Windows: **Right-click** on your Start menu and select 
 <br>
 
 
-![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
-## 🍾 Support My Work 🥳
+  ## 💰 Support
 
-If you find my work valuable, consider supporting me through the following platforms.  <br>
-Your contributions help me continue developing and maintaining open-source projects!.
+<p align="center">
+  <i>"If you find value in my work, your support helps me build more tools that benefit everyone."</i>
+</p>
 
-<br>
-
-### 🌟 Crypto Donations 😇
-
-
--  <img width="147" height="56" alt="Image" src="https://github.com/user-attachments/assets/4240bc46-a3ac-4ce2-9b69-432e8dfa0067" />
- **TON (The Open Network)**
-  
-  ```
-  UQDTX8QV6csepk9U1-dGzhoPfE4MUZTzAjjVE6YVIKVWuVj1
-  ```
-
-  Send Toncoin☝️☝️ or anything based on TON to support my projects on The Open Network (TON).
-![Image](https://github.com/user-attachments/assets/1679d9f8-c877-427d-9969-e44ade67cb41)
-
-<br>
-
-
-
-
-- <img width="800" height="201" alt="Image" src="https://github.com/user-attachments/assets/f3c84e84-9011-4470-97d6-f4b395e5c3a1" />
- **Etherium**
-  
-  ```
-   0x56dC57B9D03C6b947e49a28edC7e18FBe383365a
-  ```
-
-Send Anything(Token/NFT) on Etherium Chain.
-
-![Image](https://github.com/user-attachments/assets/1679d9f8-c877-427d-9969-e44ade67cb41)
-<br>
-
-
-
-
-- <img width="2584" height="384" alt="Image" src="https://github.com/user-attachments/assets/a642c5e6-216b-43bd-90be-65097cf4f9f3" />
- **Solana**
-
-  ```
-  9JEjaDCfe9esp6ECpyww7Gm3NUcieiy7hMU1pKMQVWxP
-  ```
-  Send Anything(Token) In Solana Chain.
-
-![Image](https://github.com/user-attachments/assets/1679d9f8-c877-427d-9969-e44ade67cb41)
-
-
-<br>
-
-
-
-
-![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
-### 💖 Support Via Telegram
-
-<img width="230" height="65" alt="Image" src="https://github.com/user-attachments/assets/fe380ea4-6526-423e-8a66-2385918dcea5" />
-
-- ⭐ You can send ***NFT*** OR ***Stars*** directly to me on [Telegram](https://t.me/mkr_infinity)
-  
-- 💬 [Contact @mkr_infinity](https://t.me/mkr_infinity)
-
-*Note: Please include your GitHub username when donating NFTs so I can thank you!*
-
-
-<h3 align="left">🌐Connect with me:</h3>
-
-
-<br clear="both">
-  <a href="https://www.instagram.com/mkr_infinity" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=mkr_infinity&color=E4405F&logoColor=cyan&labelColor=&style=plastic" height="43" alt="instagram logo"  />
+<p align="center">
+  <a href="https://supportmkr.netlify.app/">
+    <img src="https://img.shields.io/badge/Explore%20More%20Ways%20to%20Support-0A0A0A?style=for-the-badge&logo=buymeacoffee&logoColor=38BDF8"/>
   </a>
-  <a href="https://t.me/mkr_infinity" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=mkr_infinity&color=2CA5E0&logoColor=&labelColor=&style=plastic" height="43" alt="telegram logo"  />
+  &nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/mkr_infinity">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
   </a>
-</div>
+</p>
+
+### Decentralized Support
+
+|      Name      |                                    Icon                                    |                   Wallet Address                   |
+| :------------: | :------------------------------------------------------------------------: | :------------------------------------------------: |
+|    TON (TON)   |  <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png" width="28"/> | `UQDTX8QV6csepk9U1-dGzhoPfE4MUZTzAjjVE6YVIKVWuVj1` |
+| Ethereum (ETH) | <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="28"/> |    `0x56dC57B9D03C6b947e49a28edC7e18FBe383365a`    |
+|  Solana (SOL)  |  <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="28"/>  |   `9JEjaDCfe9esp6ECpyww7Gm3NUcieiy7hMU1pKMQVWxP`   |
 
 
+<p align="center">
+  <sub>Secure • Direct • Transparent</sub>
+</p>
+
+
+<br><br>
 
